@@ -1,1 +1,1 @@
-# physor16-openmc-workshop
+The slides and Jupyter Notebook materials used for the OpenMC workshop at the PHYSOR 2016 conference at Sun Valley, ID.
